@@ -5,17 +5,63 @@
     <description>Team Last Responders adventures for charity</description>
     <link>https://y7kim.github.io/agency-jekyll-theme//</link>
     <atom:link href="https://y7kim.github.io/agency-jekyll-theme//feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 21 Jan 2016 16:24:17 -0500</pubDate>
-    <lastBuildDate>Thu, 21 Jan 2016 16:24:17 -0500</lastBuildDate>
+    <pubDate>Sat, 23 Jan 2016 16:39:08 -0500</pubDate>
+    <lastBuildDate>Sat, 23 Jan 2016 16:39:08 -0500</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
+        <title>Team Last Responders</title>
+        <description>&lt;p&gt;&lt;strong&gt;Team Last Responders&lt;/strong&gt; is a community of like-minded volunteers who believe that travel is not only a mechanism to connect with people around the world, but also a way to experience and to understand charitable work at the ground level. Team members embark on adventures and narrate the personal story of their journey to an audience largely built through social media. By placing the charity at the conclusion of the story, Last Responders aims to relate a real philanthropic work to a real-life personal story.&lt;/p&gt;
+
+&lt;p&gt;Founded in 2010 as Team MMT (short for the initial team name Team Magical Mongolian Mystery Tour), Team MMT inc is a registered 501(c)3 non-profit that exists to promote partner charities and raise funds to assist their efforts. The primary means we add value to our charity partners:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Raise visibility&lt;/strong&gt; of our charity partners by including them in our story&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Raise funding&lt;/strong&gt; (direct and indirect) for our charity partners either directly&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Material donations&lt;/strong&gt; to support activities on the ground&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;To date, our organization has participated in three charity rallies. In 2010, as Team Magical Mongolian Mystery Tour, the team drove 10,000 miles from London to Ulan Bator, Mongolia and chose &lt;a href=&quot;www.msf.org&quot;&gt;Doctors Without Borders&lt;/a&gt; and &lt;a href=&quot;http://www.mercycorp.org&quot;&gt;Mercycorp&lt;/a&gt; as our benefactors. In 2011, as Team Last Responders, the team drove 4,000 miles from London to Bamako, Mali choosing the &lt;a href=&quot;http://malihealth.org&quot;&gt;Mali Health Organizing Project&lt;/a&gt; and the &lt;a href=&quot;http://www.salifkeita.us&quot;&gt;Salif Keita Global Foundation&lt;/a&gt; to be our partners. In 2014, the PanAmerican Rally took the team from New York to Tujillo, Peru and the team partnered with &lt;a href=&quot;http://www.esperanca.org&quot;&gt;Esperanca&lt;/a&gt; and &lt;a href=&quot;http://www.viveperu.org&quot;&gt;Vive Peru&lt;/a&gt;.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;Email&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;team@lastresponders.org&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;Address&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;2373 Broadway #828&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;New York, NY 10024&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+</description>
+        <pubDate>Sat, 23 Jan 2016 00:00:00 -0500</pubDate>
+        <link>https://y7kim.github.io/agency-jekyll-theme//AboutUs/</link>
+        <guid isPermaLink="true">https://y7kim.github.io/agency-jekyll-theme//AboutUs/</guid>
+        
+        <category>modal-aboutus</category>
+        
+        
+        <category>modal</category>
+        
+      </item>
+    
+      <item>
         <title>Pan American Rally 2014</title>
-        <description>
+        <description>&lt;p&gt;The Pan American Rally was a Team Last Responders ‘first’. For this project, the team designed a route, planned a time table and organized the vehicle donation without the assistance of an organizer. The project revolved around raising money, donating medical supplies, and two vehicles to our partner charities - Vive Peru and Esperanca.&lt;/p&gt;
 </description>
         <pubDate>Sun, 20 Jul 2014 00:00:00 -0400</pubDate>
-        <link>https://y7kim.github.io/agency-jekyll-theme//modal/2014/07/20/PanAmericanRally2014/</link>
-        <guid isPermaLink="true">https://y7kim.github.io/agency-jekyll-theme//modal/2014/07/20/PanAmericanRally2014/</guid>
+        <link>https://y7kim.github.io/agency-jekyll-theme//PanAmericanRally2014/</link>
+        <guid isPermaLink="true">https://y7kim.github.io/agency-jekyll-theme//PanAmericanRally2014/</guid>
         
         <category>modal-rally</category>
         
@@ -26,11 +72,26 @@
     
       <item>
         <title>Timbuktu Challenge 2012</title>
-        <description>
+        <description>&lt;p&gt;The Timbuktu Challenge is a 4,000 miles car rally that starts in London and ends near Timbuktu, Mali. For this event, teams acquire a car for donation, gather in London and drive from Europe into Western Africa in 3 weeks. Team Last Responders answered the call to adventure with an American made Wheeled Coach Ambulance. For the adventure, the team shipped the car to Liverpool, drove into a Africa, and broke down all over Morocco before crossing the finish line 5 weeks late.&lt;/p&gt;
 </description>
         <pubDate>Sat, 19 Jul 2014 00:00:00 -0400</pubDate>
-        <link>https://y7kim.github.io/agency-jekyll-theme//modal/2014/07/19/TimbuktuChallenge2012/</link>
-        <guid isPermaLink="true">https://y7kim.github.io/agency-jekyll-theme//modal/2014/07/19/TimbuktuChallenge2012/</guid>
+        <link>https://y7kim.github.io/agency-jekyll-theme//TimbuktuChallenge2012/</link>
+        <guid isPermaLink="true">https://y7kim.github.io/agency-jekyll-theme//TimbuktuChallenge2012/</guid>
+        
+        <category>modal-rally</category>
+        
+        
+        <category>modal</category>
+        
+      </item>
+    
+      <item>
+        <title>Mongol Rally 2010</title>
+        <description>&lt;p&gt;The Mongol Rally is the ultimate endurance rally that covers the insane distance of 10,000 miles from London UK to Ulan Bator Mongolia. In the summer of 2010, Team Last Responders joined teams from across the world to attempt this challenge. This was Team Last Responder’s first charity rally. The team raised money and donated an ambulance benefiting MSF, Mercycorp, and the country of Mongolia.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 18 Jul 2014 00:00:00 -0400</pubDate>
+        <link>https://y7kim.github.io/agency-jekyll-theme//MongolRally2010/</link>
+        <guid isPermaLink="true">https://y7kim.github.io/agency-jekyll-theme//MongolRally2010/</guid>
         
         <category>modal-rally</category>
         
@@ -44,23 +105,8 @@
         <description>
 </description>
         <pubDate>Fri, 18 Jul 2014 00:00:00 -0400</pubDate>
-        <link>https://y7kim.github.io/agency-jekyll-theme//modal/2014/07/18/MongolRally2010/</link>
-        <guid isPermaLink="true">https://y7kim.github.io/agency-jekyll-theme//modal/2014/07/18/MongolRally2010/</guid>
-        
-        <category>modal-rally</category>
-        
-        
-        <category>modal</category>
-        
-      </item>
-    
-      <item>
-        <title>Mongol Rally 2010</title>
-        <description>
-</description>
-        <pubDate>Fri, 18 Jul 2014 00:00:00 -0400</pubDate>
-        <link>https://y7kim.github.io/agency-jekyll-theme//mongol%20rally%202010/2014/07/18/MongolRallySummary/</link>
-        <guid isPermaLink="true">https://y7kim.github.io/agency-jekyll-theme//mongol%20rally%202010/2014/07/18/MongolRallySummary/</guid>
+        <link>https://y7kim.github.io/agency-jekyll-theme//MongolRallySummary/</link>
+        <guid isPermaLink="true">https://y7kim.github.io/agency-jekyll-theme//MongolRallySummary/</guid>
         
         <category>mongol-rally-2010</category>
         
@@ -74,8 +120,8 @@
         <description>
 </description>
         <pubDate>Thu, 17 Jul 2014 00:00:00 -0400</pubDate>
-        <link>https://y7kim.github.io/agency-jekyll-theme//web%20development/2014/07/17/project-2/</link>
-        <guid isPermaLink="true">https://y7kim.github.io/agency-jekyll-theme//web%20development/2014/07/17/project-2/</guid>
+        <link>https://y7kim.github.io/agency-jekyll-theme//project-2/</link>
+        <guid isPermaLink="true">https://y7kim.github.io/agency-jekyll-theme//project-2/</guid>
         
         
         <category>Web Development</category>
@@ -87,8 +133,8 @@
         <description>
 </description>
         <pubDate>Wed, 16 Jul 2014 00:00:00 -0400</pubDate>
-        <link>https://y7kim.github.io/agency-jekyll-theme//web%20development/2014/07/16/project-3/</link>
-        <guid isPermaLink="true">https://y7kim.github.io/agency-jekyll-theme//web%20development/2014/07/16/project-3/</guid>
+        <link>https://y7kim.github.io/agency-jekyll-theme//project-3/</link>
+        <guid isPermaLink="true">https://y7kim.github.io/agency-jekyll-theme//project-3/</guid>
         
         
         <category>Web Development</category>
@@ -100,8 +146,8 @@
         <description>
 </description>
         <pubDate>Tue, 15 Jul 2014 00:00:00 -0400</pubDate>
-        <link>https://y7kim.github.io/agency-jekyll-theme//web%20development/2014/07/15/project-4/</link>
-        <guid isPermaLink="true">https://y7kim.github.io/agency-jekyll-theme//web%20development/2014/07/15/project-4/</guid>
+        <link>https://y7kim.github.io/agency-jekyll-theme//project-4/</link>
+        <guid isPermaLink="true">https://y7kim.github.io/agency-jekyll-theme//project-4/</guid>
         
         
         <category>Web Development</category>
@@ -113,8 +159,8 @@
         <description>
 </description>
         <pubDate>Tue, 15 Jul 2014 00:00:00 -0400</pubDate>
-        <link>https://y7kim.github.io/agency-jekyll-theme//sample/2014/07/15/project-6/</link>
-        <guid isPermaLink="true">https://y7kim.github.io/agency-jekyll-theme//sample/2014/07/15/project-6/</guid>
+        <link>https://y7kim.github.io/agency-jekyll-theme//project-6/</link>
+        <guid isPermaLink="true">https://y7kim.github.io/agency-jekyll-theme//project-6/</guid>
         
         
         <category>sample</category>
@@ -126,34 +172,11 @@
         <description>
 </description>
         <pubDate>Mon, 14 Jul 2014 00:00:00 -0400</pubDate>
-        <link>https://y7kim.github.io/agency-jekyll-theme//web%20development/2014/07/14/project-5/</link>
-        <guid isPermaLink="true">https://y7kim.github.io/agency-jekyll-theme//web%20development/2014/07/14/project-5/</guid>
+        <link>https://y7kim.github.io/agency-jekyll-theme//project-5/</link>
+        <guid isPermaLink="true">https://y7kim.github.io/agency-jekyll-theme//project-5/</guid>
         
         
         <category>Web Development</category>
-        
-      </item>
-    
-      <item>
-        <title>Everything is Perfect at Home</title>
-        <description>&lt;p&gt;1.&amp;nbsp; We were all rushed onto the plane in Lima, and I had to use the bathroom before the plane took off.&amp;nbsp; I was so very happy that the toilet paper can be flushed down the toilet.&lt;&amp;#47;p&gt;
-&lt;p&gt;2.&amp;nbsp; By the time we landed in Florida, everybody spoke English,&amp;nbsp; I understood every word of every conversation, all the signs were familiar too.&lt;&amp;#47;p&gt;
-&lt;p&gt;3.&amp;nbsp; It took about 3 minutes to re-connect my cellphone.&amp;nbsp; I got my unlimited LTE network back while waiting for my connecting flight.&lt;&amp;#47;p&gt;
-&lt;p&gt;4.&amp;nbsp; When I finally arrived in Baltimore and met my mom at the baggage claim, my first word was, &amp;ldquo;mama.&amp;rdquo;&amp;nbsp; My mom said, &amp;ldquo;Oh, you didn&amp;rsquo;t lose any weight.&amp;rdquo;&lt;&amp;#47;p&gt;
-&lt;p&gt;5.&amp;nbsp; I slept on my full size bed with soft clean sheets I chose and purchased to my liking.&amp;nbsp; I have my own bed, my own bedroom, my own bathroom, my own study, no need to share anymore.&lt;&amp;#47;p&gt;
-&lt;p&gt;6.&amp;nbsp; I showered as long as I wanted, applied conditioner on my hair and even had a facial mask.&amp;nbsp; The next day, I showered twice, in fact, I can shower as many times as I want.&lt;&amp;#47;p&gt;
-&lt;p&gt;7.&amp;nbsp; I have plenty of clean clothes.&lt;&amp;#47;p&gt;
-&lt;p&gt;8.&amp;nbsp; 回家后第一顿饭吃的是凉瓜，皮蛋拌豆腐等清爽的小菜。吃饭的时候，面上无事，心里很感慨呀。然后第二天买了一条活鱼回来，总算吃到了真正的新鲜鱼。&lt;&amp;#47;p&gt;
-&lt;p&gt;9.&amp;nbsp; We&amp;rsquo;ll get to see all of you who supported us.&amp;nbsp; Thank you for everything.&lt;&amp;#47;p&gt;&lt;/p&gt;
-</description>
-        <pubDate>Sat, 17 May 2014 16:44:16 -0400</pubDate>
-        <link>https://y7kim.github.io/agency-jekyll-theme//cathy/south%20america%20rally%202013/2014/05/17/everything-is-perfect-at-home/</link>
-        <guid isPermaLink="true">https://y7kim.github.io/agency-jekyll-theme//cathy/south%20america%20rally%202013/2014/05/17/everything-is-perfect-at-home/</guid>
-        
-        
-        <category>Cathy</category>
-        
-        <category>South America Rally 2013</category>
         
       </item>
     
